@@ -12,14 +12,14 @@ Welcome to the Awesome AirBnb clone repository! This web application allows you 
 
 
 # Getting Started
-1. Clone this repository to your local environment:
-2. Install the required dependencies for the frontend and backend by running the following commands:
+1. Clone this repository to your local environment: https://github.com/Vighnesh042003/WanderLust.git
+2. Install the required dependencies for the frontend and backend by running the following commands: npm install
 3. Start the server: cmd -> node app.js
 4. Open your web browser and access the application at http://localhost:8080.
  
 # TechStack
 
-1. **Database** : MOngoDB
+1. **Database** : MongoDB
 2. **Server** : ExpressJS , NodeJs
 3. **UI** : Html, Css , Js
 
